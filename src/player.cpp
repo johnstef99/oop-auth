@@ -6,7 +6,7 @@ Player::Player()
 {
     name = "";
     gender = "";
-    int age = 0;
+    age = 0;
     popularity = 0;
     tiredState = 0;
     wins = 0;
